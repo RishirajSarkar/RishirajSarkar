@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishirajSarkar
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning B.Tech
-- 💞️ I’m looking to collaborate on Data science projects
+- 👀 I’m interested in all things Cyber Sec
+- 🌱 I’m currently a Risk Analyst
+- 💞️ I’m looking to collaborate on innovative projects
 
 <!---
 RishirajSarkar/RishirajSarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
